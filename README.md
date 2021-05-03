@@ -26,7 +26,7 @@ A Full Stack Developer From The United Kingdom I love building applications & di
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png">
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=KyleFardy&show_icons=true&theme=dark&icon_color=238636&bg_color=161b22&cache_seconds=1800&custom_title=My%20GitHub%20Statistics)][github]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleFardy&layout=compact)]
 
 [website]: https://smacker-solutions.ltd
 [discord]: https://discord.smacker-solutions.ltd
