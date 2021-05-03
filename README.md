@@ -3,6 +3,10 @@
 ### I Am [Kyle Fardy][website]
 
 A Full Stack Developer From The United Kingdom I love building applications & discussing new product ideas. Reach Out To Me On [Twitter][twitter] If You'd Like To Talk ✌️
+<br>
+<br>
+<br>
+<br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_Solutions__?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Our%20Website&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fsmacker-solutions.ltd%2F)][website]
