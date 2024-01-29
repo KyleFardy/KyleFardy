@@ -2,7 +2,7 @@
 
 ### I Am [Kyle Fardy][website]
 
-A Full Stack Developer From The United Kingdom I love building applications & discussing new product ideas. Reach Out To Me On [Twitter][twitter] If You'd Like To Talk ✌️
+A Full Stack Developer From The United Kingdom I love building applications & discussing new product ideas. Reach Out To Me On [Discord][discord] If You'd Like To Talk ✌️
 <br>
 <br>
 <br>
