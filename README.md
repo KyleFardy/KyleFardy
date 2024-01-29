@@ -8,10 +8,9 @@ A Full Stack Developer From The United Kingdom I love building applications & di
 <br>
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/voiddevco?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
+
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Our%20Website&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fvoid-dev.co%2F)][website]
 [![Discord](https://img.shields.io/discord/1080868719640723466?color=7289DA&label=Community%20Discord&style=for-the-badge)][discord]
-[![Business Github](https://img.shields.io/static/v1?label=BUSINESS%20GITHUB&message=Void%20Development&color=2ea043&style=for-the-badge)][bgithub]
 
 ### Languages I Know
 <p>
@@ -29,6 +28,4 @@ A Full Stack Developer From The United Kingdom I love building applications & di
 
 [website]: https://void-dev.co
 [discord]: https://discord.void-dev.co
-[twitter]: https://twitter.com/voiddevco
 [github]: https://github.com/KyleFardy
-[bgithub]: https://github.com/Void-Development
